@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-![YOUR github Summary]([https://github-readme-stats.vercel.app/api?username=USERNAME](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alangomessilva))
+![YOUR github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alangomessilva))
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alan_gomessilva) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alan-gomes-da-silva-92b715a3/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/oalangomes/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/alan.gomes.12)

@@ -29,5 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oalangomes&" alt="oalangomes" /></p>
 
 <p>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22tlpi2lvcuw4op665ay2zxgq)
+(https://spotify-recently-played-readme.vercel.app/api?user=22tlpi2lvcuw4op665ay2zxgq)
 </p>

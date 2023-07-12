@@ -11,7 +11,7 @@
 
 </a> </p>
 
-- 🔭 I’m currently working on [Routine App](https://github.com/users/alangomessilva/projects/2)
+- 🔭 I’m currently working on [Routine App](https://github.com/users/oalangomes/projects/2)
 
 - 🌱 I’m currently learning **Node, React, TypeScript**
 

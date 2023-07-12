@@ -2,7 +2,7 @@
 <h3 align="center">Java Senior Developer From Brazil</h3>
 
 
-<picture>
+<picture  align="center">
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
   <img alt="github-snake" src="github-user-contribution.svg" />
@@ -10,7 +10,7 @@
 
 
 </a> </p>
-
+<p  align="center">
 - 🔭 I’m currently working on [Routine App](https://github.com/users/alangomessilva/projects/2)
 
 - 🌱 I’m currently learning **Node, React, TypeScript**
@@ -18,6 +18,7 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-alan-gomes.onrender.com/](https://portfolio-alan-gomes.onrender.com/)
 
 - 📫 How to reach me **alangssilva@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

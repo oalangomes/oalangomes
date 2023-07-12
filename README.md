@@ -30,6 +30,8 @@
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p>
-<img src="https://raw.githubusercontent.com/oalangomes/oalangomes/output/snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>

@@ -36,6 +36,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oalangomes&" alt="oalangomes" /></p>
 
 
-<h3 align="left">Spotify</h3>
+<h3 align="left">🎸 Spotify</h3>
 <p  align="left"><img src="https://camo.githubusercontent.com/850f6b7ac5f4bec210c929f485f52092fe7b59f7eb47dc6dc287a786d269fd4d/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d3232746c7069326c76637577346f703636356179327a786771" alt="oalangomes" />
 </p>

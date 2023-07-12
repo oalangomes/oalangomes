@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alan Gomes</h1>
 <h3 align="center">Java Senior Developer From Brazil</h3>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
+
+
 </a> </p>
 
 - 🔭 I’m currently working on [Routine App](https://github.com/users/alangomessilva/projects/2)
@@ -27,11 +35,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oalangomes&" alt="oalangomes" /></p>
 
 <p><img align="center" src="https://camo.githubusercontent.com/850f6b7ac5f4bec210c929f485f52092fe7b59f7eb47dc6dc287a786d269fd4d/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d3232746c7069326c76637577346f703636356179327a786771" alt="oalangomes" /></p>
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
-  <img alt="github-snake" src="github-user-contribution.svg" />
-</picture>

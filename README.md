@@ -36,6 +36,5 @@
 
 <p  align="center"><img src="https://camo.githubusercontent.com/850f6b7ac5f4bec210c929f485f52092fe7b59f7eb47dc6dc287a786d269fd4d/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d3232746c7069326c76637577346f703636356179327a786771" alt="oalangomes" />
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=22tlpi2lvcuw4op665ay2zxgq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22tlpi2lvcuw4op665ay2zxgq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)]]
-
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22tlpi2lvcuw4op665ay2zxgq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="oalangomes" />
 </p>

@@ -10,7 +10,6 @@
 
 
 </a> </p>
-<p  align="left">
 - 🔭 I’m currently working on [Routine App](https://github.com/users/alangomessilva/projects/2)
 
 - 🌱 I’m currently learning **Node, React, TypeScript**
@@ -18,7 +17,7 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-alan-gomes.onrender.com/](https://portfolio-alan-gomes.onrender.com/)
 
 - 📫 How to reach me **alangssilva@gmail.com**
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

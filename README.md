@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Gomes</h1>
 <h3 align="center">Java Senior Developer From Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alangomessilva" alt="alangomessilva" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/oalangomes" target="blank"><img src="https://img.shields.io/twitter/follow/oalangomes?logo=twitter&style=for-the-badge" alt="oalangomes" /></a> </p>
+</a> </p>
 
 - 🔭 I’m currently working on [Routine App](https://github.com/users/alangomessilva/projects/2)
 

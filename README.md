@@ -38,5 +38,7 @@
 
 ![oalangomes's Stats](https://github-readme-stats.vercel.app/api?username=oalangomes&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oalangomes&" alt="oalangomes" /></p>
+
 
 

@@ -3,10 +3,12 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
-  <img alt="github-snake" src="github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oalangomes/oalangomes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oalangomes/oalangomes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oalangomes/oalangomes/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 
 </a> </p>

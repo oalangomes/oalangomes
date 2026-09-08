@@ -95,7 +95,7 @@ My background also includes enterprise software architecture, distributed system
 
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/oalangomes) · [Portfolio](https://github.com/oalangomes/alan-portfolio) · [Email](mailto:alangssilva@gmail.com)
+[LinkedIn](https://linkedin.com/in/oalangomes) · [Portfolio](https://oalangomes.github.io/alan-portfolio/) · [Email](mailto:alangssilva@gmail.com)
 
 ---
 

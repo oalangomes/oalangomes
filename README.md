@@ -12,11 +12,13 @@ I like turning architectural ideas into things that can actually be **built, tes
 
 ## Selected work
 
-### [runnerctl](https://github.com/oalangomes/actions-runners)
+### [RunnerOps](https://github.com/oalangomes/RunnerOps)
 
-A lightweight Linux control plane for GitHub Actions self-hosted runners.
+A lightweight Linux operations layer for GitHub Actions self-hosted runners, with [`runnerctl`](https://github.com/oalangomes/RunnerOps) as its public CLI.
 
-CLI-first, built around `systemd`, machine-local configuration, on-demand runners, operational safety, diagnostics, CI, releases, and portable Agent Skills.
+Built around `systemd`, machine-local configuration, on-demand runners, operational safety, diagnostics, CI feedback, portable Agent Skills, and versioned releases.
+
+**Website:** https://oalangomes.github.io/RunnerOps/ · **Current release:** [v0.2.1](https://github.com/oalangomes/RunnerOps/releases/tag/v0.2.1)
 
 **Engineering signals:** CLI design · Linux · systemd · GitHub Actions · developer experience · testing · release engineering
 

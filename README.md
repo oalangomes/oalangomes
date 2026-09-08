@@ -1,40 +1,110 @@
 <h1 align="left">Hi 👋, I'm Alan Gomes</h1>
-<h3 align="left">Solution Architect from Brazil</h3>
 
-###
+### Software Architect · AI Engineering · Developer Tooling
 
-# 💫 About Me:
-🔭 I’m currently working on several personal and experimental projects<br>
-🌱 I’m currently learning scalable Node.js, advanced React, software architecture, and AI agents (LangChain, OpenAI API, RAG)<br>
-📫 How to reach me: alangssilva@gmail.com<br>
-💬 Ask me about JavaScript, Node.js, software architecture, AI agents, clean code, and digital innovation<br>
-⚡ Fun fact: I’m passionate about music, fatherhood, Brazilian Jiu-Jitsu, and street running
+I design and build software at the intersection of **software architecture, AI engineering, developer tooling, and context engineering**.
 
-###
+My current work and experiments are especially focused on coding agents, code retrieval, CLI tooling, reproducible benchmarks, local AI, and engineering workflows.
+
+I like turning architectural ideas into things that can actually be **built, tested, measured, documented, and used**.
+
+---
+
+## Selected work
+
+### [runnerctl](https://github.com/oalangomes/actions-runners)
+
+A lightweight Linux control plane for GitHub Actions self-hosted runners.
+
+CLI-first, built around `systemd`, machine-local configuration, on-demand runners, operational safety, diagnostics, CI, releases, and portable Agent Skills.
+
+**Engineering signals:** CLI design · Linux · systemd · GitHub Actions · developer experience · testing · release engineering
+
+---
+
+### [benchpub](https://github.com/oalangomes/benchpub)
+
+> **Publish benchmark evidence, not just benchmark numbers.**
+
+A local-first CLI that turns structured benchmark results into evidence that can be validated, compared, inspected, and rendered as static reports.
+
+**Engineering signals:** benchmark engineering · reproducibility · evidence modeling · CLI design · Python · technical reporting
+
+---
+
+### [alan-portfolio](https://github.com/oalangomes/alan-portfolio)
+
+My engineering portfolio, organized around selected projects and technical case studies instead of a technology gallery.
+
+**Engineering signals:** product engineering · React · TypeScript · CI · accessibility · performance budgets · technical communication
+
+---
+
+## Current focus
+
+I'm currently exploring:
+
+- context engineering for coding agents;
+- lexical, dense, hybrid, and graph retrieval;
+- repository-scale code retrieval;
+- LLM and agent evaluation;
+- reproducible technical benchmarks;
+- local AI and open models;
+- developer tooling and automation;
+- multi-repository engineering workflows.
+
+A recurring question behind many of these experiments is:
+
+> **How do we give software agents the right context, prove that it is the right context, and measure whether the resulting system is actually better?**
+
+---
+
+## How I like to build
+
+```text
+problem
+   ↓
+hypothesis
+   ↓
+architecture
+   ↓
+implementation
+   ↓
+tests
+   ↓
+benchmark / evidence
+   ↓
+documentation
+   ↓
+release
+```
+
+I prefer small, well-executed tools and experiments over large systems that exist only as architecture diagrams.
+
+---
+
+## Toolbox
+
+**Languages:** Python · TypeScript · JavaScript · Java · Bash  
+**Engineering:** Linux · Docker · GitHub Actions · CI/CD · APIs  
+**Retrieval & AI:** Solr · OpenSearch · Qdrant · LLMs · Coding Agents · RAG / Retrieval
+
+My background also includes enterprise software architecture, distributed systems, SAP Commerce, integrations, and product engineering.
+
+---
+
+## Elsewhere
+
+[LinkedIn](https://linkedin.com/in/oalangomes) · [Portfolio](https://github.com/oalangomes/alan-portfolio) · [Email](mailto:alangssilva@gmail.com)
+
+---
+
+## Beyond code
+
+Music, Brazilian Jiu-Jitsu, running, football, books, and building things that solve problems I actually have.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oalangomes/oalangomes/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oalangomes/oalangomes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oalangomes/oalangomes/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/oalangomes/oalangomes/output/pacman-contribution-graph.svg">
 </picture>
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=plastic&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/oalangomes) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oalangomes) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alan.gomes.12) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oalangomes) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oalangomes) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@oalangomes) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/oalangomes) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oalangomes) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alangssilva@gmail.com) 
-
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=plastic&logo=Apache+Groovy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=plastic&logo=travis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=plastic&logo=SONARLINT&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white)
-
-
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/oalangomes) 
-
-  

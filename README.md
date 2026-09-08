@@ -32,6 +32,18 @@ A local-first CLI that turns structured benchmark results into evidence that can
 
 ---
 
+### [retrievalgate](https://github.com/oalangomes/retrievalgate)
+
+> **Regression tests for retrieval.**
+
+A backend-agnostic CLI for turning retrieval expectations into deterministic, executable contracts and failing CI when retrieval quality regresses.
+
+It does not implement retrieval. Instead, it tests any retriever that can speak a small JSON stdin/stdout protocol across lexical, dense, hybrid, graph, or custom retrieval systems.
+
+**Engineering signals:** context engineering · retrieval evaluation · executable contracts · deterministic metrics · CI gates · Python · CLI design
+
+---
+
 ### [alan-portfolio](https://github.com/oalangomes/alan-portfolio)
 
 My engineering portfolio, organized around selected projects and technical case studies instead of a technology gallery.

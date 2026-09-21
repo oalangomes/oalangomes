@@ -1,115 +1,70 @@
-<h1 align="left">Hi 👋, I'm Alan Gomes</h1>
+<h1 align="center">Hi 👋, I'm Alan Gomes</h1>
 
-### Software Architect · AI Engineering · Developer Tooling
+<p align="center">
+  <strong>Software Architect · AI Engineering · Developer Tooling</strong>
+</p>
 
-I design and build software at the intersection of **software architecture, AI engineering, developer tooling, and context engineering**.
+<p align="center">
+  I design and build software at the intersection of <strong>architecture, AI engineering, developer tooling, and context engineering</strong>.
+</p>
 
-My current work and experiments are especially focused on coding agents, code retrieval, CLI tooling, reproducible benchmarks, local AI, and engineering workflows.
+<p align="center">
+  <a href="https://linkedin.com/in/oalangomes">LinkedIn</a> ·
+  <a href="https://oalangomes.github.io/alan-portfolio/">Portfolio</a> ·
+  <a href="https://github.com/oalangomes/RunnerOps">RunnerOps</a>
+</p>
+
+<p align="center"><code>Build · Measure · Learn · Ship</code></p>
+
+---
+
+## 🚀 Featured project
+
+### [RunnerOps](https://github.com/oalangomes/RunnerOps)
+
+<p align="center">
+  <a href="https://github.com/oalangomes/RunnerOps">
+    <img src="https://raw.githubusercontent.com/oalangomes/RunnerOps/master/docs/images/runnerops-banner-green.jpg" alt="RunnerOps — lightweight control for on-demand GitHub Actions runners" width="700">
+  </a>
+</p>
+
+A lightweight Linux operations layer for **GitHub Actions self-hosted runners**, with `runnerctl` as its public CLI.
+
+Built around **systemd**, on-demand execution, operational safety, diagnostics, CI feedback, governed autoscaling, and developer experience.
+
+[Repository](https://github.com/oalangomes/RunnerOps) · [Website](https://oalangomes.github.io/RunnerOps/) · [Latest release](https://github.com/oalangomes/RunnerOps/releases/latest)
+
+---
+
+## 🧭 Current focus
+
+I'm currently exploring:
+
+- coding agents and context engineering;
+- code retrieval: lexical, dense, hybrid, and graph;
+- LLM / agent evaluation and reproducible benchmarks;
+- developer tooling, automation, and local AI.
 
 I like turning architectural ideas into things that can actually be **built, tested, measured, documented, and used**.
 
 ---
 
-## Selected work
+## 🧪 Labs & experiments
 
-### [RunnerOps](https://github.com/oalangomes/RunnerOps)
+Some ideas are public before they are products.
 
-A lightweight Linux operations layer for GitHub Actions self-hosted runners, with [`runnerctl`](https://github.com/oalangomes/RunnerOps) as its public CLI.
-
-Built around `systemd`, machine-local configuration, on-demand runners, operational safety, diagnostics, CI feedback, portable Agent Skills, and versioned releases.
-
-**Website:** https://oalangomes.github.io/RunnerOps/ · **Current release:** [v0.2.1](https://github.com/oalangomes/RunnerOps/releases/tag/v0.2.1)
-
-**Engineering signals:** CLI design · Linux · systemd · GitHub Actions · developer experience · testing · release engineering
+[**benchpub**](https://github.com/oalangomes/benchpub) — publishing reproducible benchmark evidence.  
+[**retrievalgate**](https://github.com/oalangomes/retrievalgate) — regression testing for retrieval quality.
 
 ---
 
-### [benchpub](https://github.com/oalangomes/benchpub)
+## 🛠 Toolbox
 
-> **Publish benchmark evidence, not just benchmark numbers.**
-
-A local-first CLI that turns structured benchmark results into evidence that can be validated, compared, inspected, and rendered as static reports.
-
-**Engineering signals:** benchmark engineering · reproducibility · evidence modeling · CLI design · Python · technical reporting
-
----
-
-### [retrievalgate](https://github.com/oalangomes/retrievalgate)
-
-> **Regression tests for retrieval.**
-
-A backend-agnostic CLI for turning retrieval expectations into deterministic, executable contracts and failing CI when retrieval quality regresses.
-
-It does not implement retrieval. Instead, it tests any retriever that can speak a small JSON stdin/stdout protocol across lexical, dense, hybrid, graph, or custom retrieval systems.
-
-**Engineering signals:** context engineering · retrieval evaluation · executable contracts · deterministic metrics · CI gates · Python · CLI design
-
----
-
-### [alan-portfolio](https://github.com/oalangomes/alan-portfolio)
-
-My engineering portfolio, organized around selected projects and technical case studies instead of a technology gallery.
-
-**Engineering signals:** product engineering · React · TypeScript · CI · accessibility · performance budgets · technical communication
-
----
-
-## Current focus
-
-I'm currently exploring:
-
-- context engineering for coding agents;
-- lexical, dense, hybrid, and graph retrieval;
-- repository-scale code retrieval;
-- LLM and agent evaluation;
-- reproducible technical benchmarks;
-- local AI and open models;
-- developer tooling and automation;
-- multi-repository engineering workflows.
-
-A recurring question behind many of these experiments is:
-
-> **How do we give software agents the right context, prove that it is the right context, and measure whether the resulting system is actually better?**
-
----
-
-## How I like to build
-
-```text
-problem
-   ↓
-hypothesis
-   ↓
-architecture
-   ↓
-implementation
-   ↓
-tests
-   ↓
-benchmark / evidence
-   ↓
-documentation
-   ↓
-release
-```
-
-I prefer small, well-executed tools and experiments over large systems that exist only as architecture diagrams.
-
----
-
-## Toolbox
-
-**Languages:** Python · TypeScript · JavaScript · Java · Bash  
+**Languages:** Python · TypeScript · Java · Bash  
 **Engineering:** Linux · Docker · GitHub Actions · CI/CD · APIs  
-**Retrieval & AI:** Solr · OpenSearch · Qdrant · LLMs · Coding Agents · RAG / Retrieval
+**AI & Retrieval:** Solr · OpenSearch · Qdrant · LLM tooling · RAG / Retrieval
 
-My background also includes enterprise software architecture, distributed systems, SAP Commerce, integrations, and product engineering.
-
----
-
-## Elsewhere
-
-[LinkedIn](https://linkedin.com/in/oalangomes) · [Portfolio](https://oalangomes.github.io/alan-portfolio/) · [Email](mailto:alangssilva@gmail.com)
+Background in **enterprise software architecture, distributed systems, SAP Commerce, integrations, and product engineering**.
 
 ---
 
